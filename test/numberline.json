@@ -1,1 +1,0 @@
-{"taskset_name":"numberline","taskset_subject":"Mathe","taskset_grade":1,"taskset_randomize_order":true,"tasks":[{"id":"[#ce1c3]","task_type":"TaskType.numberLine","task_reward":10,"lama_text":"Gib den im Zahlenstrahl rot markierten Wert an!","left_to_solve":3,"range":[0,10],"randomrange":false,"steps":1,"ontap":true}]}
