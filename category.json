@@ -1,0 +1,1 @@
+{"taskset_name":"category","taskset_subject":"Deutsch","taskset_grade":1,"taskset_randomize_order":true,"tasks":[{"id":"[#e90ee]","task_type":"TaskType.matchCategory","task_reward":10,"lama_text":"Schiebe jedes Wort in die Richtige Kategorie","left_to_solve":3,"nameCatOne":"hallo","nameCatTwo":"tschüss","categoryOne":["hi","moin"],"categoryTwo":["tschö","ciao"]}]}
